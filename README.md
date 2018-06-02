@@ -2,4 +2,4 @@
 
 Android 
 intent explicit
-intent explicit (POJO and percelable)
+intent explicit (POJO and parcelable)
