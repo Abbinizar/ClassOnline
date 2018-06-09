@@ -1,5 +1,6 @@
 # ClassOnline
 
 Android 
-intent explicit
+intent explicit, implicit. 
 intent explicit (POJO and parcelable)
+
